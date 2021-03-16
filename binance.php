@@ -76,7 +76,7 @@ final class Binance extends Singleton
     }
 
     /**
-     *
+     * Return data from binance server
      *
      * @param string $command
      * @param string $symbol
